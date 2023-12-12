@@ -1,0 +1,525 @@
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\nguye\Desktop\LT Huong Doi Tuong\KhachSan\KhachSan\obj\Debug\KhachSan.ROOM_GUI.resources
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.ROOM_GUI.resources
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\t480s\Downloads\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.customer.resources
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.employee.resources
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.ROOM_GUI.resources
+E:\Oracle\BAOCAO_B10\BAOCAO_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.customer.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.employee.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.ROOM_GUI.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.customer.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.employee.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.ROOM_GUI.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Downloads\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.customer.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.employee.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.ROOM_GUI.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+E:\oraccle\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.customer.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.employee.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.ROOM_GUI.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\ASUS\Desktop\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.ROOM_GUI.resources
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.KhachHang_GUI.resources
+C:\Users\nguye\Desktop\KhachSan (1) (3)\KhachSan (1)\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.NhanVien_GUI.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.KhachHang_GUI.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.NhanVien_GUI.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.Room_GUI.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+E:\Oracle\ht\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.KhachHang_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.NhanVien_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.Room_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\BaoCao_B10\BaoCao_B10\KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.KhachHang_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.NhanVien_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.Room_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\Nhom-2_Detai-2\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.KhachHang_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.NhanVien_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.DTO.Login.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.Room_GUI.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TongQuan.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.GUI.TrangChu.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.Properties.Resources.resources
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.exe.licenses
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\KhachSan.exe.config
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\KhachSan.exe
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\KhachSan.pdb
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Memory.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Memory.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Desktop\Nhom-2_DeTai-2_KhachSan\Nhom-2_DeTai-2_KhachSan\KhachSan\obj\Debug\KhachSan.csproj.CopyComplete
